@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+.Box1{
+    background-color:#787a78;
+    border-radius: 25px;
+}
+.Righteous{
+    font-family:'Agency FB';
+    color: white;
+} 
+.Righ{
+    font-family:'Agency FB' !important;
+}
+.Righo{
+    font-family:'Agency FB' !important;
+}
+.ls{
+    list-style: none;
+    font-size: 15px;
+}
+.lu{
+    text-decoration: none;
+    color: black;
+}
+.lu:hover{
+    text-decoration: none;
+    color: grey;
+}
+.spano{
+    color: #4CAF50;
+}
+.PU{
+    cursor: not-allowed;
+    pointer-events: none;
+    color: gray !important;
+    border-color: gray !important;
+}
+.FS{
+    font-size: larger;
+    border :2px solid grey ;
+    border-radius: 20px;
+}
+.FS tr,.FS td{
+    border: 2px solid grey;
+}
